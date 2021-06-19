@@ -6,7 +6,7 @@
 👨🏻‍💻 I'm a {Front End} <br>
 💻Computer Science <br>
 🔨Java / JavaScript <br>
-🚀 Studing Technologies: Javascript, HTML, CSS, Node, Typescript.
+🚀 Studing Technologies: Javascript, HTML, CSS, Node, Typescript <br>
 🏢 Work in Ebix Latin America <br>
 
 <p align="left">
