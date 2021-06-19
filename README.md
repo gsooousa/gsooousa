@@ -6,8 +6,8 @@
 👨🏻‍💻 I'm a {Front End} <br>
 💻Computer Science <br>
 🔨Java / JavaScript <br>
+🚀 Studing Technologies: Javascript, HTML, CSS, Node, Typescript.
 🏢 Work in Ebix Latin America <br>
-📚 Learning more about Angular / Javascript <br>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-sousa-189798128/" rel="nofollow">
