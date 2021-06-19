@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador Artur Santiago" style="max-width:100%;">
 
 👨🏻‍💻 I'm a {Front End} <br>
-💻 computer science graduate <br>
+💻 Computer Science Graduate <br>
 🔨 Skils: Java / JavaScript <br>
 🚀 Studing Technologies: HTML, CSS, Javascript, Typescript <br>
 🏢 Work at Ebix Latin America <br>
