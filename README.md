@@ -7,7 +7,7 @@
 💻Computer Science <br>
 🔨Java / JavaScript <br>
 🚀 Studing Technologies: Javascript, HTML, CSS, Node, Typescript <br>
-🏢 Work in Ebix Latin America <br>
+🏢 Work at Ebix Latin America <br>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-sousa-189798128/" rel="nofollow">
