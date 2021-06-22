@@ -6,7 +6,7 @@
 👨🏻‍💻 I'm a {Front End} <br>
 💻 Computer Science Graduate <br>
 🔨 Skils: Java / JavaScript <br>
-🚀 Studing Technologies: HTML, CSS, Javascript, Typescript <br>
+🚀 Studing Technologies: HTML, CSS, Javascript, Typescript, Angular, React, firebase <br>
 🏢 Work at Ebix Latin America <br>
 
 <p align="left">
